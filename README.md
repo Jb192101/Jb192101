@@ -10,7 +10,7 @@
 </h2>
 
 -  **3th year student** of the Ryazan State Radio Engineering University
--  **Java Developer** with 2+ years of experience
+-  **Java Developer** with 3+ years of experience
 -  Built a production-ready microservice project [**BookStatistic**](https://github.com/Jb192101/BookStatistic-Web)
 -  Deep understanding of **Spring ecosystem** and **microservice architecture**
 -  Interested in **NLP**, **ML integration into Java**, and **system design**
@@ -53,9 +53,8 @@
   Featured Project
 </h2>
 
-### 📚 BookStatistic — AI-Powered Book Genre Analysis
+### BookStatistic — AI-Powered Book Genre Analysis
 
-[![GitHub stars](https://img.shields.io/github/stars/Jb192101/BookStatistic-Web?style=for-the-badge)](https://github.com/Jb192101/BookStatistic-Web)
 [![Java](https://img.shields.io/badge/Java-21-orange?style=for-the-badge)](https://github.com/Jb192101/BookStatistic-Web)
 
 > Cloud service for deep analysis of literary preferences using NLP and machine learning.  
@@ -69,15 +68,6 @@
 -  Centralized logging with **ELK stack** (Elasticsearch, Logstash, Kibana)
 -  Containerization with **Docker** and orchestration with **Kubernetes**
 -  ML inference via **Python service** (SBERT + logistic regression)
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jb192101&show_icons=true&count_private=true&include_all_commits=true&theme=default" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jb192101&layout=compact&langs_count=8&theme=default" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jb192101&theme=default" />
-</div>
 
 <h2 style="display: flex; align-items: center;">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojics/Objects/Inbox%20Tray.png" alt="📥" width="35" />
