@@ -70,15 +70,6 @@
 -  Containerization with **Docker** and orchestration with **Kubernetes**
 -  ML inference via **Python service** (SBERT + logistic regression)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jb192101&repo=BookStatistic-Web&show_owner=true&theme=default" alt="BookStatistic" />
-</p>
-
-<h2 style="display: flex; align-items: center;">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojics/Activities/Chart%20Increasing.png" alt="📈" width="35" />
-  GitHub Stats
-</h2>
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Jb192101&show_icons=true&count_private=true&include_all_commits=true&theme=default" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jb192101&layout=compact&langs_count=8&theme=default" />
