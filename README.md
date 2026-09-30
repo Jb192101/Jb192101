@@ -9,7 +9,7 @@
   About Me
 </h2>
 
--  **3th year student** of the Ryazan State Radio Engineering University
+-  **4th year student** of the Ryazan State Radio Engineering University
 -  **Java Developer** with 3+ years of experience
 -  Built a production-ready microservice project [**BookStatistic**](https://github.com/Jb192101/BookStatistic-Web)
 -  Deep understanding of **Spring ecosystem** and **microservice architecture**
